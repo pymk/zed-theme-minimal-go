@@ -1,0 +1,7 @@
+id = "go"
+name = "Go"
+version = "0.0.1"
+schema_version = 1
+authors = ["pymk"]
+description = "Minimal theme inspired by pkg.go.dev"
+repository = "https://github.com/pymk/zed-theme-minimal-go"
